@@ -23,5 +23,10 @@
     "device": "LaunchControl XL MK2",
     "manufacturer": "Novation",
     "global": "NLCXL2"
+  },
+  "launchpad-pro-mk1": {
+    "device": "Launchpad Pro MK1",
+    "manufacturer": "Novation",
+    "global": "NLPMK1"
   }
 }
